@@ -2,6 +2,8 @@ import java.util.Random;
 
 public class Opgave_8_10 {
 
+    // Lavet af Erik Ruhmanis
+
     public static void main(String[] args) {
 
 
